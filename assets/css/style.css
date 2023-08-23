@@ -36,6 +36,7 @@ h6 {
 .icon-service {
   width: 40px;
   z-index: 500;
+  display: inline-block;
 }
 /*--------------------------------------------------------------
 # Back to top button
